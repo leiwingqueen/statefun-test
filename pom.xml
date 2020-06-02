@@ -21,7 +21,7 @@ under the License.
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.liyongquan.fiink</groupId>
+    <groupId>com.liyongquan.flink</groupId>
     <artifactId>statefun-test</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
